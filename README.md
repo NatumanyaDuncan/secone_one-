@@ -1,5 +1,5 @@
 # secone_one-
-a second project in ML
+My second project in ML
 # Model's Ability to Solve the Business Problem
 The Random Forest model has demonstrated strong performance in addressing our business problem, which involves predicting a binary outcome. With an accuracy of 81.7%, the model is able to correctly classify the majority of instances. This indicates that it has the potential to significantly contribute to solving the business problem by providing accurate predictions.
 
